@@ -55,3 +55,6 @@ replay_pid*
 *.exe
 *.out
 *.app
+
+TemplateApk
+*.txt
